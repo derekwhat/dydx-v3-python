@@ -17,6 +17,8 @@ Python client for dYdX (v3 API).
 
 The library is currently tested against Python versions 2.7, 3.4, 3.5, and 3.6
 
+Currently working on making it compatable with python version 3.10
+
 ## Installation
 
 The `dydx-v3-python` package is available on [PyPI](https://pypi.org/project/dydx-v3-python). Install with `pip`:
